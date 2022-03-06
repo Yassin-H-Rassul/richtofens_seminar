@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542439281395",
+    "project_id": "richtofens-seminar",
+    "storage_bucket": "richtofens-seminar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542439281395:android:f0e1fcaccffcb335a55d86",
+        "android_client_info": {
+          "package_name": "com.example.richtofens_seminar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542439281395-k9ujfkmfm1ksfb97l8fak5vimltlfq7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Izpp_qlXr8MiPJmwdXcovtOW6msAgzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542439281395-k9ujfkmfm1ksfb97l8fak5vimltlfq7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
